@@ -1,5 +1,7 @@
 # Snake-Game-in-C++
 
+I've written theexplaination on the same here - https://mygluecode.com/snake-game-in-c/
+
 This repository contains the code and explaination for the code of Snake Game in C++
 
 
